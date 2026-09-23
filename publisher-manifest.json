@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "31f31785ac774c966232c15a",
+  "owner": "utdypakiksjoz",
+  "repo": "page-8dfb67a685b26a9e28e8cb9c",
+  "title": "shopee",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8dfb67a685b26a9e28e8cb9c",
+      "a": "shopee",
+      "b": "机场官网线路发布页",
+      "entity": "shopee",
+      "brand": "shopee",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "571694b5cafb889f14f9b6c08b4defd57c514beba325ddb6b1d5117d856aaa9a",
+      "content": {
+        "primary_entity": "shopee",
+        "keyword1": "shopee",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕海外网络加速需求整理了三档订阅方案，分别覆盖轻度浏览、流媒体与游戏加速以及多设备团队协作场景。基础版每月提供100GB流量并支持3台设备，旗舰版升级至300GB与5台设备并加入IPLC专线，团队版可满足20台设备与1000GB流量。各档均按自然月计费，按年付享优惠价格。",
+          "AI_HERO_SUBTITLE": "海外加速服务多档订阅可选",
+          "AI_HERO_INTRO": "Shopee加速器为跨境访问、流媒体观看与游戏联机提供多线路订阅方案。三档套餐在流量、设备数与专线品质上依次提升，用户可根据月流量消耗、常用设备数量与是否依赖低延迟链路来选择。",
+          "AI_VISUAL_TITLE": "三档订阅灵活适配",
+          "AI_HIGHLIGHT_1": "基础版100GB满足日常浏览",
+          "AI_HIGHLIGHT_2": "旗舰版300GB含IPLC专线",
+          "AI_HIGHLIGHT_3": "团队版20台设备千GB流量",
+          "AI_FEATURES_TITLE": "订阅前值得关注的几点",
+          "AI_FEATURES_INTRO": "先确认使用设备数量与每月流量消耗，再结合是否需要流媒体或游戏加速来挑选套餐，能减少后续调整频率。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "同时在线设备3台、5台、20台分别对应基础版、旗舰版与团队版，超出后需切换至更高档位。",
+          "AI_FEATURE_TITLE_2": "按流量与周期匹配",
+          "AI_FEATURE_TEXT_2": "100GB适合轻度浏览，300GB覆盖流媒体与游戏，1000GB面向多终端共享，按年付均有优惠价。",
+          "AI_FEATURE_TITLE_3": "线路品质分层",
+          "AI_FEATURE_TEXT_3": "旗舰版提供IPLC专线游戏加速优化，团队版配备VIP高带宽节点并支持企业定制路由。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统适配的客户端有所差异，订阅前留意设备类型与客户端文档中标注的兼容版本，安装后导入订阅地址即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年，流量与设备数随档位递增。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_GUIDE_INTRO": "选定套餐后按设备数量与客户端支持情况完成订阅，步骤简单直接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "依据常用设备数量与月流量需求，在基础版、旗舰版与团队版中选定一档。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_2": "查看所选客户端支持的系统版本与订阅导入方式，确认设备满足运行条件。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "依照对应客户端文档完成订阅地址添加与节点更新，即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版能同时用几台设备？",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版为5台，团队版最多20台。若需增加并发设备，可升级到更高档位。",
+          "AI_FAQ_QUESTION_2": "月流量用超了怎么办？",
+          "AI_FAQ_ANSWER_2": "每档套餐都设定了月度流量上限，用完后当月无法继续使用。可在下个周期选择更高流量档位，或直接升级套餐。",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "基础版按月¥15、按年¥150；旗舰版按月¥35、按年¥350；团队版按月¥85、按年¥850。按年付相当于节省两个月费用。",
+          "AI_FAQ_QUESTION_4": "IPLC专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版含IPLC专线游戏加速优化，适合对延迟敏感的联机游戏与实时协作。团队版还提供VIP高带宽节点，适合大流量并发。",
+          "AI_FAQ_QUESTION_5": "订阅地址怎么导入客户端？",
+          "AI_FAQ_ANSWER_5": "完成订阅后可获取订阅地址，在对应客户端中粘贴并更新节点即可。具体入口因客户端而异，参考各客户端的配置文档操作。",
+          "AI_CLOSING_TITLE": "订阅与设备匹配",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定档位，再参照客户端文档完成订阅导入。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "66crs.cn",
+    "host": "66crs.cn"
+  },
+  "file_hashes": {
+    "index.html": "f23f81eeb5afa39379dac37824d355b644615f42faf458504bc084c819791f9a",
+    "sitemap.xml": "c53234da97c28b131a250493d14de7b85a8bdf3a47f9d2908526b38d148db12e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5713820aa295f9a0a3d78bc7ab79c591d4b64122ece5a2c11e2ac28e1bebc532",
+    "robots.txt": "e448d37339f1456ea95cbc3f28501b7093fc10eb1e11eb6a3c9757ade6da972b",
+    "82e816b0afbbec5eb6378d6fdd839acd.txt": "f7bd14a512739222eea518c417fc93f40bfa57146873e8f1d1c3b73ae68ebaa5"
+  },
+  "revision": "e3a7c302ae27b7ccb9c883a8a3b96c0b6b242044da18968326578a5eae26958a"
+}
